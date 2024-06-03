@@ -1,0 +1,20 @@
+:root {
+    --f1-heavy-1200-font-family: "Source Sans Pro", Helvetica;
+    --f1-heavy-1200-font-weight: 600;
+    --f1-heavy-1200-font-size: 48px;
+    --f1-heavy-1200-letter-spacing: 0px;
+    --f1-heavy-1200-line-height: 52px;
+    --f1-heavy-1200-font-style: normal;
+    --display-large-heavy-1200-font-family: "Source Sans Pro", Helvetica;
+    --display-large-heavy-1200-font-weight: 700;
+    --display-large-heavy-1200-font-size: 69px;
+    --display-large-heavy-1200-letter-spacing: 0px;
+    --display-large-heavy-1200-line-height: 76px;
+    --display-large-heavy-1200-font-style: normal;
+    --f2-heavy-1200-font-family: "Source Sans Pro", Helvetica;
+    --f2-heavy-1200-font-weight: 600;
+    --f2-heavy-1200-font-size: 40px;
+    --f2-heavy-1200-letter-spacing: 0px;
+    --f2-heavy-1200-line-height: 44px;
+    --f2-heavy-1200-font-style: normal;
+}
