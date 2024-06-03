@@ -1,0 +1,15 @@
+// Nathaly Betancourt
+color: 'white';
+ fontSize: 16;
+ fontFamily: 'Source Sans Pro';
+ fontWeight: '600';
+ lineHeight: 24;
+ wordWrap: 'break-word'
+---
+// About
+color: '#F4F6F9';
+ fontSize: 16;
+ fontFamily: 'Source Sans Pro';
+ fontWeight: '600';
+ lineHeight: 24;
+ wordWrap: 'break-word'
