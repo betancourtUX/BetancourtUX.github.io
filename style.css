@@ -1,15 +1,90 @@
-// Nathaly Betancourt
-color: 'white';
- fontSize: 16;
- fontFamily: 'Source Sans Pro';
- fontWeight: '600';
- lineHeight: 24;
- wordWrap: 'break-word'
----
-// About
-color: '#F4F6F9';
- fontSize: 16;
- fontFamily: 'Source Sans Pro';
- fontWeight: '600';
- lineHeight: 24;
- wordWrap: 'break-word'
+.header {
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    align-items: center;
+    gap: 10px;
+    padding: 16px 10px;
+    position: relative;
+    background-color: #e15f4c;
+}
+
+.header .class {
+    position: relative;
+    width: 1070.85px;
+    height: 40px;
+    background-color: transparent;
+}
+
+.header .group {
+    position: absolute;
+    width: 170px;
+    height: 29px;
+    top: 6px;
+    left: 0;
+}
+
+.header .heavy {
+    position: absolute;
+    height: 24px;
+    top: 5px;
+    left: 34px;
+    font-family: "Source Sans Pro-SemiBold", Helvetica;
+    font-weight: 600;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 24px;
+    white-space: nowrap;
+}
+
+.header .rectangle {
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    top: 0;
+    left: 0;
+}
+
+.header .tab-horizontal {
+    display: flex;
+    flex-direction: column;
+    width: 85px;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 986px;
+}
+
+.header .main-tab-horizontal {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    flex: 0 0 auto;
+    border-radius: 4px 4px 0px 0px;
+    overflow: hidden;
+}
+
+.header .icons-text {
+    display: inline-flex;
+    align-items: flex-start;
+    gap: 4px;
+    padding: 8px 16px;
+    position: relative;
+    flex: 0 0 auto;
+}
+
+.header .horizontal-tabs {
+    position: relative;
+    width: fit-content;
+    margin-top: -1px;
+    font-family: var(--action-button-medium-font-family);
+    font-weight: var(--action-button-medium-font-weight);
+    color: #f4f6f9;
+    font-size: var(--action-button-medium-font-size);
+    letter-spacing: var(--action-button-medium-letter-spacing);
+    line-height: var(--action-button-medium-line-height);
+    white-space: nowrap;
+    font-style: var(--action-button-medium-font-style);
+}
