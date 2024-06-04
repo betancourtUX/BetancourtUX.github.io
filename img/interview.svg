@@ -1,0 +1,43 @@
+<svg width="80" height="81" viewBox="0 0 80 81" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="interview">
+<rect id="Rectangle 18376" x="1" y="1.203" width="78" height="78" rx="4" stroke="#C44601" stroke-width="2"/>
+<rect id="Rectangle 18386" x="1" y="12.203" width="78" height="2" rx="1" fill="#C44601"/>
+<rect id="Rectangle 18387" x="5" y="16.203" width="43" height="50" rx="1" fill="#C44601"/>
+<g id="Group 81289">
+<ellipse id="Ellipse 1423" cx="63" cy="51.203" rx="5" ry="4" fill="#C44601"/>
+<path id="Ellipse 1424" d="M69 59.1352C69 61.8592 66.3137 61.1081 63 61.1081C59.6863 61.1081 57 61.8592 57 59.1352C57 56.4112 59.6863 54.203 63 54.203C66.3137 54.203 69 56.4112 69 59.1352Z" fill="#C44601"/>
+</g>
+<g id="Group 81290">
+<g id="Group 81288">
+<ellipse id="Ellipse 1423_2" cx="63" cy="25.203" rx="5" ry="4" fill="#C44601"/>
+<path id="Ellipse 1424_2" d="M69 33.1352C69 35.8592 66.3137 35.1081 63 35.1081C59.6863 35.1081 57 35.8592 57 33.1352C57 30.4112 59.6863 28.203 63 28.203C66.3137 28.203 69 30.4112 69 33.1352Z" fill="#C44601"/>
+</g>
+<g id="Rectangle 18388">
+<mask id="path-8-inside-1_1_1065" fill="white">
+<rect x="51" y="16.203" width="24" height="24" rx="1"/>
+</mask>
+<rect x="51" y="16.203" width="24" height="24" rx="1" stroke="#C44601" stroke-width="3" mask="url(#path-8-inside-1_1_1065)"/>
+</g>
+</g>
+<g id="Rectangle 18389">
+<mask id="path-9-inside-2_1_1065" fill="white">
+<rect x="51" y="42.203" width="24" height="24" rx="1"/>
+</mask>
+<rect x="51" y="42.203" width="24" height="24" rx="1" stroke="#C44601" stroke-width="3" mask="url(#path-9-inside-2_1_1065)"/>
+</g>
+<g id="Group 81269">
+<g id="Group 81275">
+<circle id="Ellipse 1423_3" cx="8.5" cy="7.703" r="2.5" fill="#C44601"/>
+<circle id="Ellipse 1424_3" cx="34.5" cy="71.703" r="2.5" fill="#C44601"/>
+</g>
+<g id="Group 81276">
+<circle id="Ellipse 1423_4" cx="15.1666" cy="7.703" r="2.5" fill="#C44601"/>
+<circle id="Ellipse 1424_4" cx="41.1666" cy="71.703" r="2.5" fill="#C44601"/>
+</g>
+<g id="Group 81277">
+<circle id="Ellipse 1423_5" cx="21.8334" cy="7.703" r="2.5" fill="#C44601"/>
+<circle id="Ellipse 1424_5" cx="47.8334" cy="71.703" r="2.5" fill="#C44601"/>
+</g>
+</g>
+</g>
+</svg>
