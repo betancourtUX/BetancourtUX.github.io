@@ -441,2066 +441,2066 @@
 }
 
 .roche-project {
-    background-color: #ffffff;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    width: 100%;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
 }
 
 .roche-project .div {
-    background-color: #ffffff;
-    width: 1440px;
-    height: 4674px;
-    position: relative;
+  background-color: #ffffff;
+  width: 1440px;
+  height: 4674px;
+  position: relative;
 }
 
 .roche-project .me {
-    display: flex;
-    flex-direction: column;
-    width: 1440px;
-    height: 788px;
-    align-items: flex-start;
-    gap: 10px;
-    padding: 100px 186px;
-    position: absolute;
-    top: 72px;
-    left: 0;
-    background-color: #00000099;
-    background-image: url(./img/me.png);
-    background-size: cover;
-    background-position: 50% 50%;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 788px;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 100px 186px;
+  position: absolute;
+  top: 72px;
+  left: 0;
+  background-color: #00000099;
+  background-image: url(https://c.animaapp.com/DNsPmJHu/img/me.png);
+  background-size: cover;
+  background-position: 50% 50%;
 }
 
 .roche-project .group {
-    position: relative;
-    width: 1024px;
-    height: 360px;
+  position: relative;
+  width: 1024px;
+  height: 360px;
 }
 
 .roche-project .frame {
-    display: flex;
-    flex-direction: column;
-    width: 1024px;
-    align-items: flex-start;
-    gap: 13px;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1024px;
+  align-items: flex-start;
+  gap: 13px;
+  position: relative;
 }
 
 .roche-project .display-large-heavy {
-    position: relative;
-    width: 1024px;
-    margin-top: -1px;
-    font-family: "Roboto-Bold", Helvetica;
-    font-weight: 700;
-    color: #f4f6f9;
-    font-size: 50px;
-    letter-spacing: 0;
-    line-height: 76px;
+  position: relative;
+  width: 1024px;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 700;
+  color: #f4f6f9;
+  font-size: 50px;
+  letter-spacing: 0;
+  line-height: 76px;
 }
 
 .roche-project .heavy {
-    position: relative;
-    width: 918px;
-    font-family: "Roboto-SemiBold", Helvetica;
-    font-weight: 600;
-    line-height: normal;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: relative;
+  width: 918px;
+  font-weight: 600;
+  line-height: normal;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .frame-2 {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 16px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 16px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-3 {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 9px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 9px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .f-heavy {
-    position: relative;
-    width: fit-content;
-    margin-top: -1px;
-    font-family: "Roboto-Black", Helvetica;
-    font-weight: 900;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
-    line-height: 44px;
-    white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 900;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
+  line-height: 44px;
+  white-space: nowrap;
 }
 
 .roche-project .text-wrapper {
-    position: relative;
-    width: fit-content;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    line-height: 44px;
-    white-space: nowrap;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-weight: 400;
+  line-height: 44px;
+  white-space: nowrap;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .group-2 {
-    position: relative;
-    width: 179px;
-    height: 44px;
+  position: relative;
+  width: 179px;
+  height: 44px;
 }
 
 .roche-project .heavy-2 {
-    position: absolute;
-    height: 44px;
-    top: 0;
-    left: 0;
-    font-family: "Roboto-Black", Helvetica;
-    font-weight: 900;
-    line-height: 44px;
-    white-space: nowrap;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: absolute;
+  height: 44px;
+  top: 0;
+  left: 0;
+  font-weight: 900;
+  line-height: 44px;
+  white-space: nowrap;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .heavy-3 {
-    position: absolute;
-    height: 44px;
-    top: 0;
-    left: 110px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    line-height: 44px;
-    white-space: nowrap;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: absolute;
+  height: 44px;
+  top: 0;
+  left: 110px;
+  font-weight: 400;
+  line-height: 44px;
+  white-space: nowrap;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .group-3 {
-    position: relative;
-    width: 162px;
-    height: 44px;
-    margin-right: -4px;
+  position: relative;
+  width: 162px;
+  height: 44px;
+  margin-right: -4px;
 }
 
 .roche-project .heavy-4 {
-    position: absolute;
-    height: 44px;
-    top: 0;
-    left: 62px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    line-height: 44px;
-    white-space: nowrap;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: absolute;
+  height: 44px;
+  top: 0;
+  left: 62px;
+  font-weight: 400;
+  line-height: 44px;
+  white-space: nowrap;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .group-wrapper {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-wrapper {
-    position: relative;
-    width: 670px;
-    height: 73px;
+  position: relative;
+  width: 670px;
+  height: 73px;
 }
 
 .roche-project .frame-4 {
-    display: flex;
-    flex-direction: column;
-    width: 670px;
-    align-items: flex-start;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 670px;
+  align-items: flex-start;
+  position: relative;
 }
 
 .roche-project .heavy-5 {
-    position: relative;
-    width: 81px;
-    margin-top: -1px;
-    font-family: "Roboto-Black", Helvetica;
-    font-weight: 900;
-    line-height: 44px;
-    color: #f4f6f9;
-    font-size: 20px;
-    letter-spacing: 0;
+  position: relative;
+  width: 81px;
+  margin-top: -1px;
+  font-weight: 900;
+  line-height: 44px;
+  font-family: "Roboto", Helvetica;
+  color: #f4f6f9;
+  font-size: 20px;
+  letter-spacing: 0;
 }
 
 .roche-project .frame-5 {
-    display: flex;
-    width: 670px;
-    align-items: flex-start;
-    gap: 10px;
-    position: relative;
-    flex: 0 0 auto;
+  display: flex;
+  width: 670px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-6 {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 5px 20px;
-    position: relative;
-    flex: 0 0 auto;
-    background-color: #f9f9f9b0;
-    border-radius: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 5px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #f9f9f9b0;
+  border-radius: 20px;
 }
 
 .roche-project .text-wrapper-2 {
-    position: relative;
-    width: fit-content;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: 19.2px;
-    white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  white-space: nowrap;
 }
 
 .roche-project .frame-7 {
-    display: inline-flex;
-    align-items: center;
-    justify-content: center;
-    gap: 10px;
-    padding: 5px 20px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-right: -168px;
-    background-color: #f9f9f9b0;
-    border-radius: 20px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  padding: 5px 20px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -168px;
+  background-color: #f9f9f9b0;
+  border-radius: 20px;
 }
 
 .roche-project .div-wrapper {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 117px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-bottom: -75px;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 117px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-bottom: -75px;
 }
 
 .roche-project .frame-8 {
-    display: flex;
-    flex-direction: column;
-    width: 230px;
-    align-items: flex-start;
-    gap: 10px;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 230px;
+  align-items: flex-start;
+  gap: 10px;
+  position: relative;
 }
 
 .roche-project .frame-9 {
-    display: flex;
-    flex-direction: column;
-    width: 670px;
-    align-items: flex-start;
-    position: relative;
-    flex: 0 0 auto;
-    margin-right: -440px;
+  display: flex;
+  flex-direction: column;
+  width: 670px;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-right: -440px;
 }
 
 .roche-project .frame-10 {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 5px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 5px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-11 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .img {
-    position: relative;
-    width: 64px;
-    height: 64px;
-    object-fit: cover;
+  position: relative;
+  width: 64px;
+  height: 64px;
+  object-fit: cover;
 }
 
 .roche-project .text-wrapper-3 {
-    position: relative;
-    width: 46px;
-    font-family: "Work Sans-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 16px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: 19.2px;
+  position: relative;
+  width: 46px;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19.2px;
 }
 
 .roche-project .text-wrapper-4 {
-    position: relative;
-    width: fit-content;
-    font-family: "Work Sans-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 16px;
-    text-align: center;
-    letter-spacing: 0;
-    line-height: 19.2px;
-    white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  font-family: "Work Sans", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 19.2px;
+  white-space: nowrap;
 }
 
 .roche-project .frame-12 {
-    display: flex;
-    flex-direction: column;
-    width: 1440px;
-    height: 3814px;
-    align-items: center;
-    gap: 30px;
-    padding: 25px 7px;
-    position: absolute;
-    top: 860px;
-    left: 0;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 3814px;
+  align-items: center;
+  gap: 30px;
+  padding: 25px 7px;
+  position: absolute;
+  top: 860px;
+  left: 0;
 }
 
 .roche-project .frame-13 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 24px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 24px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-14 {
-    display: flex;
-    width: 1208px;
-    align-items: flex-start;
-    justify-content: center;
-    gap: 45px;
-    position: relative;
-    flex: 0 0 auto;
+  display: flex;
+  width: 1208px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 45px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .flexcontainer-wrapper {
-    display: flex;
-    width: 510px;
-    height: 225px;
-    align-items: flex-start;
-    justify-content: center;
-    padding: 10px 9px;
-    position: relative;
-    background-color: #ebeef2;
-    border-radius: 10px;
+  display: flex;
+  width: 510px;
+  height: 225px;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 10px 9px;
+  position: relative;
+  background-color: #ebeef2;
+  border-radius: 10px;
 }
 
 .roche-project .flexcontainer {
-    width: 444px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 6px;
+  width: 444px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
 }
 
 .roche-project .text {
-    position: relative;
-    align-self: stretch;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: relative;
+  align-self: stretch;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .roche-project .span {
-    color: #ff725e;
+  color: #ff725e;
 }
 
 .roche-project .text-wrapper-5 {
-    color: #000000;
+  color: #000000;
 }
 
 .roche-project .frame-15 {
-    display: flex;
-    width: 510px;
-    align-items: center;
-    justify-content: center;
-    padding: 10px 9px;
-    position: relative;
-    background-color: #ebeef2;
-    border-radius: 10px;
+  display: flex;
+  width: 510px;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 9px;
+  position: relative;
+  background-color: #ebeef2;
+  border-radius: 10px;
 }
 
 .roche-project .vector {
-    position: relative;
-    width: 1138.5px;
-    height: 21.21px;
+  position: relative;
+  width: 1138.5px;
+  height: 21.21px;
 }
 
 .roche-project .frame-16 {
-    position: relative;
-    width: 1208px;
-    height: 176px;
+  position: relative;
+  width: 1208px;
+  height: 176px;
 }
 
 .roche-project .flexcontainer-2 {
-    position: relative;
-    width: 1066px;
-    height: 145px;
-    top: -1px;
-    left: 71px;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 6px;
+  position: relative;
+  width: 1066px;
+  height: 145px;
+  top: -1px;
+  left: 71px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 6px;
 }
 
 .roche-project .frame-17 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 30px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .frame-18 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .group-4 {
-    position: relative;
-    width: 574px;
-    height: 194px;
+  position: relative;
+  width: 574px;
+  height: 194px;
 }
 
 .roche-project .frame-19 {
-    width: 574px;
-    height: 194px;
-    padding: 0px 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    position: relative;
+  width: 574px;
+  height: 194px;
+  padding: 0px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  position: relative;
 }
 
 .roche-project .goal {
-    position: relative;
-    width: 80px;
-    height: 80px;
-    border-radius: 40px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  border-radius: 40px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .overlap-group {
-    position: relative;
-    width: 60px;
-    height: 60px;
-    top: 10px;
-    left: 10px;
-    border-radius: 30px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: relative;
+  width: 60px;
+  height: 60px;
+  top: 10px;
+  left: 10px;
+  border-radius: 30px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .ellipse {
-    position: absolute;
-    width: 40px;
-    height: 40px;
-    top: 8px;
-    left: 8px;
-    border-radius: 20px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 40px;
+  height: 40px;
+  top: 8px;
+  left: 8px;
+  border-radius: 20px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .ellipse-2 {
-    position: absolute;
-    width: 20px;
-    height: 20px;
-    top: 18px;
-    left: 18px;
-    background-color: #c44601;
-    border-radius: 10px;
-    border: 2px solid;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  top: 18px;
+  left: 18px;
+  background-color: #c44601;
+  border-radius: 10px;
+  border: 2px solid;
 }
 
 .roche-project .frame-20 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 5px;
-    padding: 15px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-left: -78px;
-    margin-right: -78px;
-    background-color: #d9e4ff;
-    border-radius: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 15px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -78px;
+  margin-right: -78px;
+  background-color: #d9e4ff;
+  border-radius: 20px;
 }
 
 .roche-project .text-wrapper-6 {
-    position: relative;
-    width: 392px;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #c44601;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: relative;
+  width: 392px;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #c44601;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .roche-project .p {
-    position: relative;
-    width: 500px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #000000;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: relative;
+  width: 500px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .roche-project .frame-21 {
-    display: inline-flex;
-    align-items: flex-start;
-    position: relative;
-    flex: 0 0 auto;
-    margin-top: -94px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -94px;
 }
 
 .roche-project .group-5 {
-    position: relative;
-    width: 604px;
-    height: 80px;
+  position: relative;
+  width: 604px;
+  height: 80px;
 }
 
 .roche-project .group-6 {
-    position: relative;
-    width: 574px;
-    height: 223px;
+  position: relative;
+  width: 574px;
+  height: 223px;
 }
 
 .roche-project .frame-22 {
-    display: flex;
-    flex-direction: column;
-    width: 574px;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    padding: 0px 200px;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 574px;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  padding: 0px 200px;
+  position: relative;
 }
 
 .roche-project .image {
-    width: 80px;
-    height: 80px;
-    position: relative;
-    object-fit: cover;
+  width: 80px;
+  height: 80px;
+  position: relative;
+  object-fit: cover;
 }
 
 .roche-project .frame-23 {
-    margin-left: -178px;
-    margin-right: -178px;
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 5px;
-    padding: 15px;
-    position: relative;
-    flex: 0 0 auto;
-    background-color: #d9e4ff;
-    border-radius: 20px;
+  margin-left: -178px;
+  margin-right: -178px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 15px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #d9e4ff;
+  border-radius: 20px;
 }
 
 .roche-project .text-wrapper-7 {
-    position: relative;
-    width: 384px;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #c44601;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: relative;
+  width: 384px;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #c44601;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .roche-project .vector-2 {
-    position: absolute;
-    width: 275px;
-    height: 199px;
-    top: 52px;
-    left: -42px;
+  position: absolute;
+  width: 275px;
+  height: 199px;
+  top: 52px;
+  left: -42px;
 }
 
 .roche-project .vector-3 {
-    position: absolute;
-    width: 497px;
-    height: 120px;
-    top: 10px;
-    left: 341px;
+  position: absolute;
+  width: 497px;
+  height: 120px;
+  top: 10px;
+  left: 341px;
 }
 
 .roche-project .group-7 {
-    position: relative;
-    width: 1208px;
-    height: 260.99px;
+  position: relative;
+  width: 1208px;
+  height: 260.99px;
 }
 
 .roche-project .frame-24 {
-    width: 1208px;
-    padding: 0px 200px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    position: relative;
+  width: 1208px;
+  padding: 0px 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  position: relative;
 }
 
 .roche-project .frame-25 {
-    display: flex;
-    flex-direction: column;
-    width: 574px;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    position: relative;
-    flex: 0 0 auto;
+  display: flex;
+  flex-direction: column;
+  width: 574px;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .desk-research {
-    position: relative;
-    width: 80px;
-    height: 79.99px;
+  position: relative;
+  width: 80px;
+  height: 79.99px;
 }
 
 .roche-project .div-2 {
-    position: relative;
-    width: 80px;
-    height: 80px;
+  position: relative;
+  width: 80px;
+  height: 80px;
 }
 
 .roche-project .rectangle {
-    position: absolute;
-    width: 78px;
-    height: 73px;
-    top: 0;
-    left: 0;
-    border-radius: 5px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 78px;
+  height: 73px;
+  top: 0;
+  left: 0;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .rectangle-2 {
-    position: absolute;
-    width: 30px;
-    height: 22px;
-    top: 19px;
-    left: 41px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 30px;
+  height: 22px;
+  top: 19px;
+  left: 41px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-8 {
-    position: absolute;
-    width: 76px;
-    height: 2px;
-    top: 12px;
-    left: 1px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 76px;
+  height: 2px;
+  top: 12px;
+  left: 1px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-9 {
-    position: absolute;
-    width: 30px;
-    height: 6px;
-    top: 19px;
-    left: 5px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 30px;
+  height: 6px;
+  top: 19px;
+  left: 5px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .overlap-group-wrapper {
-    position: absolute;
-    width: 35px;
-    height: 37px;
-    top: 43px;
-    left: 45px;
+  position: absolute;
+  width: 35px;
+  height: 37px;
+  top: 43px;
+  left: 45px;
 }
 
 .roche-project .overlap-group-2 {
-    position: relative;
-    height: 37px;
+  position: relative;
+  height: 37px;
 }
 
 .roche-project .ellipse-3 {
-    position: absolute;
-    width: 27px;
-    height: 27px;
-    top: 0;
-    left: 0;
-    border-radius: 13.5px;
-    border: 6px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 27px;
+  height: 27px;
+  top: 0;
+  left: 0;
+  border-radius: 13.5px;
+  border: 6px solid;
+  border-color: #c44601;
 }
 
 .roche-project .rectangle-3 {
-    position: absolute;
-    width: 5px;
-    height: 19px;
-    top: 19px;
-    left: 23px;
-    background-color: #c44601;
-    border-radius: 20px;
-    border: 2px solid;
-    transform: rotate(-42.95deg);
+  position: absolute;
+  width: 5px;
+  height: 19px;
+  top: 19px;
+  left: 23px;
+  background-color: #c44601;
+  border-radius: 20px;
+  border: 2px solid;
+  transform: rotate(-42.95deg);
 }
 
 .roche-project .group-10 {
-    position: absolute;
-    width: 23px;
-    height: 6px;
-    top: 27px;
-    left: 5px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 23px;
+  height: 6px;
+  top: 27px;
+  left: 5px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-11 {
-    position: absolute;
-    width: 30px;
-    height: 6px;
-    top: 35px;
-    left: 5px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 30px;
+  height: 6px;
+  top: 35px;
+  left: 5px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-12 {
-    position: absolute;
-    width: 18px;
-    height: 5px;
-    top: 5px;
-    left: 6px;
+  position: absolute;
+  width: 18px;
+  height: 5px;
+  top: 5px;
+  left: 6px;
 }
 
 .roche-project .div-3 {
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    top: 0;
-    left: 0;
-    background-color: #c44601;
-    border-radius: 2.5px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 0;
+  left: 0;
+  background-color: #c44601;
+  border-radius: 2.5px;
 }
 
 .roche-project .group-13 {
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    top: 0;
-    left: 7px;
-    background-color: #c44601;
-    border-radius: 2.5px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 0;
+  left: 7px;
+  background-color: #c44601;
+  border-radius: 2.5px;
 }
 
 .roche-project .group-14 {
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    top: 0;
-    left: 13px;
-    background-color: #c44601;
-    border-radius: 2.5px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 0;
+  left: 13px;
+  background-color: #c44601;
+  border-radius: 2.5px;
 }
 
 .roche-project .ellipse-4 {
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 43px;
-    left: 7px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 43px;
+  left: 7px;
 }
 
 .roche-project .frame-26 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 5px;
-    padding: 15px;
-    position: relative;
-    flex: 0 0 auto;
-    background-color: #d9e4ff;
-    border-radius: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 15px;
+  position: relative;
+  flex: 0 0 auto;
+  background-color: #d9e4ff;
+  border-radius: 20px;
 }
 
 .roche-project .text-wrapper-8 {
-    position: relative;
-    width: 421px;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #c44601;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
+  position: relative;
+  width: 421px;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #c44601;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
 }
 
 .roche-project .vector-4 {
-    position: absolute;
-    width: 304px;
-    height: 270px;
-    top: 27px;
-    left: 249px;
+  position: absolute;
+  width: 304px;
+  height: 270px;
+  top: 27px;
+  left: 249px;
 }
 
 .roche-project .vector-5 {
-    position: absolute;
-    width: 342px;
-    height: 584px;
-    top: 44px;
-    left: 289px;
+  position: absolute;
+  width: 342px;
+  height: 584px;
+  top: 44px;
+  left: 289px;
 }
 
 .roche-project .vector-6 {
-    position: absolute;
-    width: 304px;
-    height: 270px;
-    top: 27px;
-    left: 651px;
+  position: absolute;
+  width: 304px;
+  height: 270px;
+  top: 27px;
+  left: 651px;
 }
 
 .roche-project .frame-27 {
-    display: inline-flex;
-    align-items: flex-start;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .group-15 {
-    position: relative;
-    width: 604px;
-    height: 261px;
+  position: relative;
+  width: 604px;
+  height: 261px;
 }
 
 .roche-project .frame-28 {
-    display: flex;
-    flex-direction: column;
-    width: 604px;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    padding: 0px 45px;
-    position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 604px;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  padding: 0px 45px;
+  position: relative;
 }
 
 .roche-project .div-4 {
-    position: relative;
-    width: 80px;
-    height: 80px;
-    border-radius: 5px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: relative;
+  width: 80px;
+  height: 80px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .rectangle-4 {
-    position: absolute;
-    width: 11px;
-    height: 11px;
-    top: 32px;
-    left: 12px;
-    border-radius: 1px;
-    border: 1.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 32px;
+  left: 12px;
+  border-radius: 1px;
+  border: 1.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .rectangle-5 {
-    position: absolute;
-    width: 11px;
-    height: 11px;
-    top: 58px;
-    left: 12px;
-    border-radius: 1px;
-    border: 1.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 58px;
+  left: 12px;
+  border-radius: 1px;
+  border: 1.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .group-16 {
-    position: absolute;
-    width: 78px;
-    height: 2px;
-    top: 10px;
-    left: -1px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 78px;
+  height: 2px;
+  top: 10px;
+  left: -1px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-17 {
-    position: absolute;
-    width: 71px;
-    height: 13px;
-    top: 16px;
-    left: 3px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 71px;
+  height: 13px;
+  top: 16px;
+  left: 3px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-18 {
-    position: absolute;
-    width: 37px;
-    height: 11px;
-    top: 32px;
-    left: 29px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 37px;
+  height: 11px;
+  top: 32px;
+  left: 29px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-19 {
-    position: absolute;
-    width: 37px;
-    height: 11px;
-    top: 45px;
-    left: 29px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 37px;
+  height: 11px;
+  top: 45px;
+  left: 29px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-20 {
-    position: absolute;
-    width: 37px;
-    height: 11px;
-    top: 58px;
-    left: 29px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 37px;
+  height: 11px;
+  top: 58px;
+  left: 29px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-21 {
-    position: absolute;
-    width: 18px;
-    height: 5px;
-    top: 3px;
-    left: 4px;
+  position: absolute;
+  width: 18px;
+  height: 5px;
+  top: 3px;
+  left: 4px;
 }
 
 .roche-project .subtract {
-    position: absolute;
-    width: 11px;
-    height: 11px;
-    top: 45px;
-    left: 12px;
+  position: absolute;
+  width: 11px;
+  height: 11px;
+  top: 45px;
+  left: 12px;
 }
 
 .roche-project .frame-29 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 5px;
-    padding: 15px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-left: -8px;
-    margin-right: -8px;
-    background-color: #d9e4ff;
-    border-radius: 20px;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 5px;
+  padding: 15px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-left: -8px;
+  margin-right: -8px;
+  background-color: #d9e4ff;
+  border-radius: 20px;
 }
 
 .roche-project .vector-7 {
-    position: absolute;
-    width: 262px;
-    height: 285px;
-    top: 31px;
-    left: 347px;
+  position: absolute;
+  width: 262px;
+  height: 285px;
+  top: 31px;
+  left: 347px;
 }
 
 .roche-project .vector-8 {
-    position: absolute;
-    width: 258px;
-    height: 664px;
-    top: 29px;
-    left: -1px;
+  position: absolute;
+  width: 258px;
+  height: 664px;
+  top: 29px;
+  left: -1px;
 }
 
 .roche-project .vector-9 {
-    position: absolute;
-    width: 626px;
-    height: 1066px;
-    top: -322px;
-    left: -73px;
+  position: absolute;
+  width: 626px;
+  height: 1066px;
+  top: -322px;
+  left: -73px;
 }
 
 .roche-project .vector-10 {
-    position: absolute;
-    width: 294px;
-    height: 800px;
-    top: 38px;
-    left: 953px;
+  position: absolute;
+  width: 294px;
+  height: 800px;
+  top: 38px;
+  left: 953px;
 }
 
 .roche-project .overlap-group-3 {
-    position: absolute;
-    width: 26px;
-    height: 52px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
+  position: absolute;
+  width: 26px;
+  height: 52px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
 }
 
 .roche-project .ellipse-5 {
-    width: 13px;
-    height: 12px;
-    top: 17px;
-    left: 6px;
-    border-radius: 6.5px/6px;
-    position: absolute;
-    background-color: #c44601;
+  width: 13px;
+  height: 12px;
+  top: 17px;
+  left: 6px;
+  border-radius: 6.5px/6px;
+  position: absolute;
+  background-color: #c44601;
 }
 
 .roche-project .ellipse-6 {
-    position: absolute;
-    width: 15px;
-    height: 9px;
-    top: 28px;
-    left: 5px;
+  position: absolute;
+  width: 15px;
+  height: 9px;
+  top: 28px;
+  left: 5px;
 }
 
 .roche-project .rectangle-6 {
-    position: absolute;
-    width: 26px;
-    height: 52px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
-    border: 1.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 26px;
+  height: 52px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  border: 1.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .overlap {
-    position: absolute;
-    width: 26px;
-    height: 52px;
-    top: 0;
-    left: 54px;
-    border-radius: 1px;
+  position: absolute;
+  width: 26px;
+  height: 52px;
+  top: 0;
+  left: 54px;
+  border-radius: 1px;
 }
 
 .roche-project .ellipse-7 {
-    position: absolute;
-    width: 11px;
-    height: 10px;
-    top: 17px;
-    left: 7px;
-    background-color: #c44601;
-    border-radius: 5.5px/5px;
+  position: absolute;
+  width: 11px;
+  height: 10px;
+  top: 17px;
+  left: 7px;
+  background-color: #c44601;
+  border-radius: 5.5px/5px;
 }
 
 .roche-project .ellipse-8 {
-    position: absolute;
-    width: 11px;
-    height: 15px;
-    top: 22px;
-    left: 7px;
+  position: absolute;
+  width: 11px;
+  height: 15px;
+  top: 22px;
+  left: 7px;
 }
 
 .roche-project .subtract-2 {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    top: 322px;
-    left: 492px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 322px;
+  left: 492px;
 }
 
 .roche-project .subtract-wrapper {
-    position: absolute;
-    width: 26px;
-    height: 52px;
-    top: 0;
-    left: 27px;
-    border-radius: 1px;
-    border: 1.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 26px;
+  height: 52px;
+  top: 0;
+  left: 27px;
+  border-radius: 1px;
+  border: 1.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .subtract-3 {
-    position: absolute;
-    width: 18px;
-    height: 20px;
-    top: 16px;
-    left: 2px;
+  position: absolute;
+  width: 18px;
+  height: 20px;
+  top: 16px;
+  left: 2px;
 }
 
 .roche-project .group-22 {
-    position: absolute;
-    width: 77px;
-    height: 7px;
-    top: 55px;
-    left: 1px;
+  position: absolute;
+  width: 77px;
+  height: 7px;
+  top: 55px;
+  left: 1px;
 }
 
 .roche-project .rectangle-7 {
-    width: 24px;
-    height: 7px;
-    top: 0;
-    left: 0;
-    position: absolute;
-    background-color: #c44601;
-    border-radius: 1px;
+  width: 24px;
+  height: 7px;
+  top: 0;
+  left: 0;
+  position: absolute;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-8 {
-    position: absolute;
-    width: 24px;
-    height: 7px;
-    top: 0;
-    left: 27px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 24px;
+  height: 7px;
+  top: 0;
+  left: 27px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-9 {
-    position: absolute;
-    width: 24px;
-    height: 7px;
-    top: 0;
-    left: 53px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 24px;
+  height: 7px;
+  top: 0;
+  left: 53px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .group-23 {
-    position: absolute;
-    width: 77px;
-    height: 7px;
-    top: 64px;
-    left: 1px;
+  position: absolute;
+  width: 77px;
+  height: 7px;
+  top: 64px;
+  left: 1px;
 }
 
 .roche-project .group-24 {
-    position: absolute;
-    width: 77px;
-    height: 7px;
-    top: 73px;
-    left: 1px;
+  position: absolute;
+  width: 77px;
+  height: 7px;
+  top: 73px;
+  left: 1px;
 }
 
 .roche-project .vector-11 {
-    position: absolute;
-    width: 262px;
-    height: 285px;
-    top: -63px;
-    left: -49px;
+  position: absolute;
+  width: 262px;
+  height: 285px;
+  top: -63px;
+  left: -49px;
 }
 
 .roche-project .group-25 {
-    position: relative;
-    width: 1208px;
-    height: 280px;
+  position: relative;
+  width: 1208px;
+  height: 280px;
 }
 
 .roche-project .overlap-2 {
-    position: absolute;
-    width: 78px;
-    height: 69px;
-    top: 5px;
-    left: 1px;
+  position: absolute;
+  width: 78px;
+  height: 69px;
+  top: 5px;
+  left: 1px;
 }
 
 .roche-project .overlap-3 {
-    position: absolute;
-    width: 78px;
-    height: 69px;
-    top: 0;
-    left: 0;
+  position: absolute;
+  width: 78px;
+  height: 69px;
+  top: 0;
+  left: 0;
 }
 
 .roche-project .rectangle-10 {
-    position: absolute;
-    width: 78px;
-    height: 2px;
-    top: 7px;
-    left: 0;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 78px;
+  height: 2px;
+  top: 7px;
+  left: 0;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-11 {
-    position: absolute;
-    width: 43px;
-    height: 50px;
-    top: 11px;
-    left: 4px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 43px;
+  height: 50px;
+  top: 11px;
+  left: 4px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .overlap-wrapper {
-    position: absolute;
-    width: 44px;
-    height: 69px;
-    top: 0;
-    left: 5px;
+  position: absolute;
+  width: 44px;
+  height: 69px;
+  top: 0;
+  left: 5px;
 }
 
 .roche-project .overlap-4 {
-    position: relative;
-    height: 69px;
+  position: relative;
+  height: 69px;
 }
 
 .roche-project .group-26 {
-    width: 31px;
-    height: 69px;
-    position: absolute;
-    top: 0;
-    left: 0;
+  width: 31px;
+  height: 69px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
 .roche-project .ellipse-9 {
-    position: absolute;
-    width: 5px;
-    height: 5px;
-    top: 64px;
-    left: 26px;
-    background-color: #c44601;
-    border-radius: 2.5px;
+  position: absolute;
+  width: 5px;
+  height: 5px;
+  top: 64px;
+  left: 26px;
+  background-color: #c44601;
+  border-radius: 2.5px;
 }
 
 .roche-project .group-27 {
-    position: absolute;
-    width: 31px;
-    height: 69px;
-    top: 0;
-    left: 7px;
+  position: absolute;
+  width: 31px;
+  height: 69px;
+  top: 0;
+  left: 7px;
 }
 
 .roche-project .group-28 {
-    position: absolute;
-    width: 31px;
-    height: 69px;
-    top: 0;
-    left: 13px;
+  position: absolute;
+  width: 31px;
+  height: 69px;
+  top: 0;
+  left: 13px;
 }
 
 .roche-project .overlap-5 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 37px;
-    left: 50px;
-    border-radius: 1px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 37px;
+  left: 50px;
+  border-radius: 1px;
 }
 
 .roche-project .group-29 {
-    position: absolute;
-    width: 12px;
-    height: 14px;
-    top: 5px;
-    left: 6px;
+  position: absolute;
+  width: 12px;
+  height: 14px;
+  top: 5px;
+  left: 6px;
 }
 
 .roche-project .overlap-group-4 {
-    position: relative;
-    height: 14px;
+  position: relative;
+  height: 14px;
 }
 
 .roche-project .ellipse-10 {
-    position: absolute;
-    width: 10px;
-    height: 8px;
-    top: 0;
-    left: 1px;
-    background-color: #c44601;
-    border-radius: 5px/4px;
+  position: absolute;
+  width: 10px;
+  height: 8px;
+  top: 0;
+  left: 1px;
+  background-color: #c44601;
+  border-radius: 5px/4px;
 }
 
 .roche-project .ellipse-11 {
-    position: absolute;
-    width: 12px;
-    height: 7px;
-    top: 7px;
-    left: 0;
+  position: absolute;
+  width: 12px;
+  height: 7px;
+  top: 7px;
+  left: 0;
 }
 
 .roche-project .rectangle-12 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
-    border: 1.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  border: 1.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .group-30 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 11px;
-    left: 50px;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 11px;
+  left: 50px;
 }
 
 .roche-project .overlap-6 {
-    position: relative;
-    height: 24px;
-    border-radius: 1px;
+  position: relative;
+  height: 24px;
+  border-radius: 1px;
 }
 
 .roche-project .subtract-4 {
-    position: absolute;
-    width: 1px;
-    height: 1px;
-    top: 29px;
-    left: 792px;
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  top: 29px;
+  left: 792px;
 }
 
 .roche-project .vector-12 {
-    position: absolute;
-    width: 329px;
-    height: 294px;
-    top: 29px;
-    left: 223px;
+  position: absolute;
+  width: 329px;
+  height: 294px;
+  top: 29px;
+  left: 223px;
 }
 
 .roche-project .group-31 {
-    position: relative;
-    width: 574px;
-    height: 280px;
+  position: relative;
+  width: 574px;
+  height: 280px;
 }
 
 .roche-project .frame-30 {
-    width: 574px;
-    height: 280px;
-    padding: 0px 100px;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    position: relative;
+  width: 574px;
+  height: 280px;
+  padding: 0px 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  position: relative;
 }
 
 .roche-project .group-32 {
-    position: relative;
-    width: 78px;
-    height: 73px;
-    border-radius: 5px;
-    border: 2px solid;
-    border-color: #c44601;
+  position: relative;
+  width: 78px;
+  height: 73px;
+  border-radius: 5px;
+  border: 2px solid;
+  border-color: #c44601;
 }
 
 .roche-project .overlap-7 {
-    position: absolute;
-    width: 51px;
-    height: 28px;
-    top: 5px;
-    left: 9px;
+  position: absolute;
+  width: 51px;
+  height: 28px;
+  top: 5px;
+  left: 9px;
 }
 
 .roche-project .overlap-8 {
-    position: absolute;
-    width: 39px;
-    height: 23px;
-    top: 5px;
-    left: 0;
+  position: absolute;
+  width: 39px;
+  height: 23px;
+  top: 5px;
+  left: 0;
 }
 
 .roche-project .overlap-9 {
-    position: absolute;
-    width: 20px;
-    height: 23px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
+  position: absolute;
+  width: 20px;
+  height: 23px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-13 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    top: 3px;
-    left: 2px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 3px;
+  left: 2px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-14 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    top: 12px;
-    left: 2px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 12px;
+  left: 2px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-15 {
-    position: absolute;
-    width: 7px;
-    height: 17px;
-    top: 3px;
-    left: 11px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 7px;
+  height: 17px;
+  top: 3px;
+  left: 11px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-16 {
-    position: absolute;
-    width: 20px;
-    height: 23px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
-    border: 0.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 20px;
+  height: 23px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  border: 0.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .vector-13 {
-    position: absolute;
-    width: 19px;
-    height: 8px;
-    top: 14px;
-    left: 20px;
+  position: absolute;
+  width: 19px;
+  height: 8px;
+  top: 14px;
+  left: 20px;
 }
 
 .roche-project .overlap-10 {
-    position: absolute;
-    width: 21px;
-    height: 12px;
-    top: 0;
-    left: 30px;
-    border-radius: 1px;
+  position: absolute;
+  width: 21px;
+  height: 12px;
+  top: 0;
+  left: 30px;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-17 {
-    width: 8px;
-    height: 8px;
-    top: 2px;
-    left: 2px;
-    position: absolute;
-    background-color: #c44601;
-    border-radius: 1px;
+  width: 8px;
+  height: 8px;
+  top: 2px;
+  left: 2px;
+  position: absolute;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-18 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    top: 2px;
-    left: 11px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 2px;
+  left: 11px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-19 {
-    position: absolute;
-    width: 21px;
-    height: 12px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
-    border: 0.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 21px;
+  height: 12px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  border: 0.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .overlap-group-5 {
-    position: absolute;
-    width: 22px;
-    height: 18px;
-    top: 22px;
-    left: 48px;
-    border-radius: 1px;
+  position: absolute;
+  width: 22px;
+  height: 18px;
+  top: 22px;
+  left: 48px;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-20 {
-    position: absolute;
-    width: 8px;
-    height: 8px;
-    top: 2px;
-    left: 12px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 8px;
+  height: 8px;
+  top: 2px;
+  left: 12px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-21 {
-    position: absolute;
-    width: 13px;
-    height: 5px;
-    top: 11px;
-    left: 2px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 13px;
+  height: 5px;
+  top: 11px;
+  left: 2px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-22 {
-    position: absolute;
-    width: 4px;
-    height: 5px;
-    top: 11px;
-    left: 16px;
-    background-color: #c44601;
-    border-radius: 1px;
+  position: absolute;
+  width: 4px;
+  height: 5px;
+  top: 11px;
+  left: 16px;
+  background-color: #c44601;
+  border-radius: 1px;
 }
 
 .roche-project .rectangle-23 {
-    position: absolute;
-    width: 22px;
-    height: 18px;
-    top: 0;
-    left: 0;
-    border-radius: 1px;
-    border: 0.5px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 22px;
+  height: 18px;
+  top: 0;
+  left: 0;
+  border-radius: 1px;
+  border: 0.5px solid;
+  border-color: #c44601;
 }
 
 .roche-project .rectangle-wrapper {
-    position: absolute;
-    width: 6px;
-    height: 27px;
-    top: 38px;
-    left: 7px;
+  position: absolute;
+  width: 6px;
+  height: 27px;
+  top: 38px;
+  left: 7px;
 }
 
 .roche-project .rectangle-24 {
-    position: relative;
-    width: 27px;
-    height: 6px;
-    top: 11px;
-    left: -11px;
-    background-color: #c44601;
-    border-radius: 1px;
-    transform: rotate(-90deg);
+  position: relative;
+  width: 27px;
+  height: 6px;
+  top: 11px;
+  left: -11px;
+  background-color: #c44601;
+  border-radius: 1px;
+  transform: rotate(-90deg);
 }
 
 .roche-project .group-33 {
-    position: absolute;
-    width: 6px;
-    height: 21px;
-    top: 44px;
-    left: 15px;
+  position: absolute;
+  width: 6px;
+  height: 21px;
+  top: 44px;
+  left: 15px;
 }
 
 .roche-project .rectangle-25 {
-    position: relative;
-    width: 21px;
-    height: 6px;
-    top: 7px;
-    left: -7px;
-    background-color: #c44601;
-    border-radius: 1px;
-    transform: rotate(-90deg);
+  position: relative;
+  width: 21px;
+  height: 6px;
+  top: 7px;
+  left: -7px;
+  background-color: #c44601;
+  border-radius: 1px;
+  transform: rotate(-90deg);
 }
 
 .roche-project .group-34 {
-    position: absolute;
-    width: 6px;
-    height: 27px;
-    top: 38px;
-    left: 23px;
+  position: absolute;
+  width: 6px;
+  height: 27px;
+  top: 38px;
+  left: 23px;
 }
 
 .roche-project .ellipse-12 {
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    top: 40px;
-    left: 42px;
+  position: absolute;
+  width: 25px;
+  height: 25px;
+  top: 40px;
+  left: 42px;
 }
 
 .roche-project .frame-31 {
-    display: inline-flex;
-    align-items: flex-start;
-    position: relative;
-    flex: 0 0 auto;
-    margin-top: -140px;
+  display: inline-flex;
+  align-items: flex-start;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -140px;
 }
 
 .roche-project .group-35 {
-    position: relative;
-    width: 574px;
-    height: 318px;
+  position: relative;
+  width: 574px;
+  height: 318px;
 }
 
 .roche-project .overlap-group-6 {
-    position: absolute;
-    width: 65px;
-    height: 50px;
-    top: 0;
-    left: 15px;
+  position: absolute;
+  width: 65px;
+  height: 50px;
+  top: 0;
+  left: 15px;
 }
 
 .roche-project .rectangle-26 {
-    position: absolute;
-    width: 54px;
-    height: 44px;
-    top: 0;
-    left: 10px;
-    border-radius: 1px;
-    border: 3px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 54px;
+  height: 44px;
+  top: 0;
+  left: 10px;
+  border-radius: 1px;
+  border: 3px solid;
+  border-color: #c44601;
 }
 
 .roche-project .ellipse-13 {
-    position: absolute;
-    width: 22px;
-    height: 23px;
-    top: 9px;
-    left: 38px;
+  position: absolute;
+  width: 22px;
+  height: 23px;
+  top: 9px;
+  left: 38px;
 }
 
 .roche-project .rectangle-27 {
-    position: absolute;
-    width: 21px;
-    height: 6px;
-    top: 10px;
-    left: 16px;
-    background-color: #c44601;
-    border-radius: 1px;
-    transform: rotate(0.61deg);
+  position: absolute;
+  width: 21px;
+  height: 6px;
+  top: 10px;
+  left: 16px;
+  background-color: #c44601;
+  border-radius: 1px;
+  transform: rotate(0.61deg);
 }
 
 .roche-project .rectangle-28 {
-    position: absolute;
-    width: 16px;
-    height: 6px;
-    top: 18px;
-    left: 16px;
-    background-color: #c44601;
-    border-radius: 1px;
-    transform: rotate(0.61deg);
+  position: absolute;
+  width: 16px;
+  height: 6px;
+  top: 18px;
+  left: 16px;
+  background-color: #c44601;
+  border-radius: 1px;
+  transform: rotate(0.61deg);
 }
 
 .roche-project .rectangle-29 {
-    position: absolute;
-    width: 21px;
-    height: 6px;
-    top: 26px;
-    left: 16px;
-    background-color: #c44601;
-    border-radius: 1px;
-    transform: rotate(0.61deg);
+  position: absolute;
+  width: 21px;
+  height: 6px;
+  top: 26px;
+  left: 16px;
+  background-color: #c44601;
+  border-radius: 1px;
+  transform: rotate(0.61deg);
 }
 
 .roche-project .union {
-    position: absolute;
-    width: 15px;
-    height: 18px;
-    top: 32px;
-    left: 0;
+  position: absolute;
+  width: 15px;
+  height: 18px;
+  top: 32px;
+  left: 0;
 }
 
 .roche-project .overlap-11 {
-    position: absolute;
-    width: 71px;
-    height: 30px;
-    top: 50px;
-    left: 0;
+  position: absolute;
+  width: 71px;
+  height: 30px;
+  top: 50px;
+  left: 0;
 }
 
 .roche-project .union-2 {
-    top: 0;
-    left: 36px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 0;
+  left: 36px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-3 {
-    top: 0;
-    left: 48px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 0;
+  left: 48px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-4 {
-    top: 1px;
-    left: 11px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 1px;
+  left: 11px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-5 {
-    top: 0;
-    left: 24px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 0;
+  left: 24px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-6 {
-    top: 3px;
-    left: 0;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 3px;
+  left: 0;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-7 {
-    top: 10px;
-    left: 8px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 10px;
+  left: 8px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-8 {
-    top: 10px;
-    left: 21px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 10px;
+  left: 21px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-9 {
-    top: 10px;
-    left: 33px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 10px;
+  left: 33px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-10 {
-    top: 11px;
-    left: 44px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 11px;
+  left: 44px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .union-11 {
-    top: 11px;
-    left: 56px;
-    position: absolute;
-    width: 15px;
-    height: 19px;
+  top: 11px;
+  left: 56px;
+  position: absolute;
+  width: 15px;
+  height: 19px;
 }
 
 .roche-project .vector-14 {
-    position: absolute;
-    width: 494px;
-    height: 220px;
-    top: -44px;
-    left: -281px;
+  position: absolute;
+  width: 494px;
+  height: 220px;
+  top: -44px;
+  left: -281px;
 }
 
 .roche-project .frame-32 {
-    display: flex;
-    flex-direction: column;
-    width: 574px;
-    align-items: center;
-    justify-content: center;
-    gap: 13px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-top: -140px;
+  display: flex;
+  flex-direction: column;
+  width: 574px;
+  align-items: center;
+  justify-content: center;
+  gap: 13px;
+  position: relative;
+  flex: 0 0 auto;
+  margin-top: -140px;
 }
 
 .roche-project .overlap-group-7 {
-    position: relative;
-    height: 80px;
+  position: relative;
+  height: 80px;
 }
 
 .roche-project .ellipse-14 {
-    position: absolute;
-    width: 69px;
-    height: 69px;
-    top: 11px;
-    left: 7px;
-    border-radius: 34.29px;
-    border: 3px solid;
-    border-color: #c44601;
+  position: absolute;
+  width: 69px;
+  height: 69px;
+  top: 11px;
+  left: 7px;
+  border-radius: 34.29px;
+  border: 3px solid;
+  border-color: #c44601;
 }
 
 .roche-project .ellipse-15 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 0;
-    left: 28px;
-    background-color: #c44601;
-    border-radius: 12px;
-    border: 2px solid;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 28px;
+  background-color: #c44601;
+  border-radius: 12px;
+  border: 2px solid;
 }
 
 .roche-project .ellipse-16 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 50px;
-    left: 0;
-    background-color: #c44601;
-    border-radius: 12px;
-    border: 2px solid;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 50px;
+  left: 0;
+  background-color: #c44601;
+  border-radius: 12px;
+  border: 2px solid;
 }
 
 .roche-project .ellipse-17 {
-    width: 25px;
-    height: 24px;
-    top: 50px;
-    left: 55px;
-    border-radius: 12.5px/12px;
-    border: 2px solid;
-    position: absolute;
-    background-color: #c44601;
+  width: 25px;
+  height: 24px;
+  top: 50px;
+  left: 55px;
+  border-radius: 12.5px/12px;
+  border: 2px solid;
+  position: absolute;
+  background-color: #c44601;
 }
 
 .roche-project .vector-15 {
-    position: absolute;
-    width: 497px;
-    height: 145px;
-    top: 27px;
-    left: 340px;
+  position: absolute;
+  width: 497px;
+  height: 145px;
+  top: 27px;
+  left: 340px;
 }
 
 .roche-project .frame-33 {
-    display: flex;
-    flex-wrap: wrap;
-    width: 1208px;
-    align-items: flex-start;
-    gap: 24px 24px;
-    position: relative;
-    flex: 0 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  width: 1208px;
+  align-items: flex-start;
+  gap: 24px 24px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .whatsapp-image {
-    position: relative;
-    width: 593px;
-    height: 231.01px;
+  position: relative;
+  width: 593px;
+  height: 231.01px;
 }
 
 .roche-project .whatsapp-image-wrapper {
-    position: relative;
-    width: 585.56px;
-    height: 231.31px;
-    background-image: url(./img/whatsapp-image-2024-04-21-at-21-26-1.png);
-    background-size: 100% 100%;
+  position: relative;
+  width: 585.56px;
+  height: 231.31px;
+  background-image: url(https://c.animaapp.com/DNsPmJHu/img/whatsapp-image-2024-04-21-at-21-26-1.png);
+  background-size: 100% 100%;
 }
 
 .roche-project .whatsapp-image-2 {
-    position: absolute;
-    width: 154px;
-    height: 21px;
-    top: 8px;
-    left: 189px;
+  position: absolute;
+  width: 154px;
+  height: 21px;
+  top: 8px;
+  left: 189px;
 }
 
 .roche-project .whatsapp-image-3 {
-    position: relative;
-    width: 848px;
-    height: 361px;
+  position: relative;
+  width: 848px;
+  height: 361px;
 }
 
 .roche-project .whatsapp-image-4 {
-    position: relative;
-    width: 306px;
-    height: 337px;
+  position: relative;
+  width: 306px;
+  height: 337px;
 }
 
 .roche-project .image-2 {
-    width: 253px;
-    height: 343px;
-    position: relative;
-    object-fit: cover;
+  width: 253px;
+  height: 343px;
+  position: relative;
+  object-fit: cover;
 }
 
 .roche-project .group-36 {
-    position: relative;
-    width: 168px;
-    height: 343px;
-    background-image: url(./img/whatsapp-image-2024-04-21-at-21-26-9.png);
-    background-size: 100% 100%;
+  position: relative;
+  width: 168px;
+  height: 343px;
+  background-image: url(https://c.animaapp.com/DNsPmJHu/img/whatsapp-image-2024-04-21-at-21-26-9@2x.png);
+  background-size: 100% 100%;
 }
 
 .roche-project .rectangle-30 {
-    position: absolute;
-    width: 144px;
-    height: 296px;
-    top: 26px;
-    left: 10px;
-    background-color: #fcfcfc9e;
-    backdrop-filter: blur(3px) brightness(100%);
-    -webkit-backdrop-filter: blur(3px) brightness(100%);
+  position: absolute;
+  width: 144px;
+  height: 296px;
+  top: 26px;
+  left: 10px;
+  background-color: #fcfcfc9e;
+  backdrop-filter: blur(3px) brightness(100%);
+  -webkit-backdrop-filter: blur(3px) brightness(100%);
 }
 
 .roche-project .rectangle-31 {
-    position: absolute;
-    width: 85px;
-    height: 10px;
-    top: 16px;
-    left: 10px;
-    background-color: #fcfcfc9e;
-    backdrop-filter: blur(3px) brightness(100%);
-    -webkit-backdrop-filter: blur(3px) brightness(100%);
+  position: absolute;
+  width: 85px;
+  height: 10px;
+  top: 16px;
+  left: 10px;
+  background-color: #fcfcfc9e;
+  backdrop-filter: blur(3px) brightness(100%);
+  -webkit-backdrop-filter: blur(3px) brightness(100%);
 }
 
 .roche-project .group-37 {
-    position: relative;
-    width: 648.94px;
-    height: 342.7px;
-    background-image: url(./img/whatsapp-image-2024-04-21-at-21-26-8.png);
-    background-size: 100% 100%;
+  position: relative;
+  width: 648.94px;
+  height: 342.7px;
+  background-image: url(https://c.animaapp.com/DNsPmJHu/img/whatsapp-image-2024-04-21-at-21-26-8.png);
+  background-size: 100% 100%;
 }
 
 .roche-project .rectangle-32 {
-    position: relative;
-    width: 630px;
-    height: 301px;
-    top: 42px;
-    left: 13px;
-    background-color: #fcfcfc9e;
-    backdrop-filter: blur(5px) brightness(100%);
-    -webkit-backdrop-filter: blur(5px) brightness(100%);
+  position: relative;
+  width: 630px;
+  height: 301px;
+  top: 42px;
+  left: 13px;
+  background-color: #fcfcfc9e;
+  backdrop-filter: blur(5px) brightness(100%);
+  -webkit-backdrop-filter: blur(5px) brightness(100%);
 }
 
 .roche-project .image-3 {
-    width: 180px;
-    height: 220px;
-    position: relative;
-    object-fit: cover;
+  width: 180px;
+  height: 220px;
+  position: relative;
+  object-fit: cover;
 }
 
 .roche-project .image-4 {
-    width: 400px;
-    height: 220px;
-    position: relative;
-    object-fit: cover;
+  width: 400px;
+  height: 220px;
+  position: relative;
+  object-fit: cover;
 }
 
 .roche-project .image-5 {
-    width: 397px;
-    height: 225px;
-    position: relative;
-    object-fit: cover;
+  width: 397px;
+  height: 225px;
+  position: relative;
+  object-fit: cover;
 }
 
 .roche-project .text-2 {
-    position: relative;
-    width: 1px;
-    height: 15px;
-    font-family: var(--caption-font-family);
-    font-weight: var(--caption-font-weight);
-    color: #000000;
-    font-size: var(--caption-font-size);
-    letter-spacing: var(--caption-letter-spacing);
-    line-height: var(--caption-line-height);
-    white-space: nowrap;
-    font-style: var(--caption-font-style);
+  position: relative;
+  width: 1px;
+  height: 15px;
+  font-family: var(--caption-font-family);
+  font-weight: var(--caption-font-weight);
+  color: #000000;
+  font-size: var(--caption-font-size);
+  letter-spacing: var(--caption-letter-spacing);
+  line-height: var(--caption-line-height);
+  white-space: nowrap;
+  font-style: var(--caption-font-style);
 }
 
 .roche-project .header {
-    display: flex;
-    flex-direction: column;
-    width: 1440px;
-    align-items: center;
-    gap: 10px;
-    padding: 16px 10px;
-    position: fixed;
-    top: 0;
-    left: 0;
-    background-color: #e15f4c;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  align-items: center;
+  gap: 10px;
+  padding: 16px 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #e15f4c;
 }
 
 .roche-project .header-2 {
-    position: relative;
-    width: 1070.85px;
-    height: 40px;
+  position: relative;
+  width: 1070.85px;
+  height: 40px;
 }
 
 .roche-project .group-38 {
-    position: absolute;
-    width: 173px;
-    height: 27px;
-    top: 6px;
-    left: 0;
+  position: absolute;
+  width: 173px;
+  height: 27px;
+  top: 6px;
+  left: 0;
 }
 
 .roche-project .heavy-6 {
-    position: absolute;
-    height: 19px;
-    top: 8px;
-    left: 34px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #ffffff;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
+  position: absolute;
+  height: 19px;
+  top: 8px;
+  left: 34px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
 }
 
 .roche-project .rectangle-33 {
-    position: absolute;
-    width: 24px;
-    height: 24px;
-    top: 0;
-    left: 0;
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  top: 0;
+  left: 0;
 }
 
 .roche-project .tab-horizontal {
-    display: flex;
-    flex-direction: column;
-    width: 85px;
-    align-items: center;
-    position: absolute;
-    top: 0;
-    left: 986px;
+  display: flex;
+  flex-direction: column;
+  width: 85px;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 986px;
 }
 
 .roche-project .main-tab-horizontal {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: center;
-    position: relative;
-    flex: 0 0 auto;
-    border-radius: 4px 4px 0px 0px;
-    overflow: hidden;
+  display: inline-flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  flex: 0 0 auto;
+  border-radius: 4px 4px 0px 0px;
+  overflow: hidden;
 }
 
 .roche-project .icons-text {
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 4px;
-    padding: 8px 16px;
-    position: relative;
-    flex: 0 0 auto;
+  display: inline-flex;
+  align-items: flex-start;
+  gap: 4px;
+  padding: 8px 16px;
+  position: relative;
+  flex: 0 0 auto;
 }
 
 .roche-project .horizontal-tabs {
-    position: relative;
-    width: fit-content;
-    margin-top: -1px;
-    font-family: "Roboto-Regular", Helvetica;
-    font-weight: 400;
-    color: #f4f6f9;
-    font-size: 16px;
-    letter-spacing: 0;
-    line-height: normal;
-    white-space: nowrap;
+  position: relative;
+  width: fit-content;
+  margin-top: -1px;
+  font-family: "Roboto", Helvetica;
+  font-weight: 400;
+  color: #f4f6f9;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
 }
