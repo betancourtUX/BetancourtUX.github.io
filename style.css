@@ -810,9 +810,9 @@
 }
 
 .roche-project .flexcontainer {
+    width: 444px;
     display: flex;
     flex-direction: column;
-    width: 444px;
     align-items: flex-start;
     gap: 6px;
 }
@@ -820,30 +820,20 @@
 .roche-project .text {
     position: relative;
     align-self: stretch;
-    font-family: "Work Sans-Medium", Helvetica;
+    font-family: "Roboto-Regular", Helvetica;
     font-weight: 400;
     color: transparent;
-    font-size: 25px;
+    font-size: 16px;
     letter-spacing: 0;
-    line-height: 25px;
+    line-height: normal;
 }
 
 .roche-project .span {
-    font-weight: 500;
     color: #ff725e;
 }
 
 .roche-project .text-wrapper-5 {
-    font-family: "Work Sans-Regular", Helvetica;
     color: #000000;
-    font-size: 16px;
-}
-
-.roche-project .text-wrapper-6 {
-    font-family: "Work Sans-Regular", Helvetica;
-    color: #000000;
-    font-size: 17px;
-    line-height: 20.4px;
 }
 
 .roche-project .frame-15 {
@@ -857,75 +847,31 @@
     border-radius: 10px;
 }
 
-.roche-project .p {
-    align-self: stretch;
-    font-family: "Work Sans-Medium", Helvetica;
-    color: transparent;
-    font-size: 25px;
-    line-height: normal;
-    position: relative;
-    font-weight: 400;
-    letter-spacing: 0;
-}
-
-.roche-project .text-wrapper-7 {
-    font-weight: var(--TITLE-BODY-font-weight);
-    color: #ff725e;
-    font-family: var(--TITLE-BODY-font-family);
-    font-style: var(--TITLE-BODY-font-style);
-    letter-spacing: var(--TITLE-BODY-letter-spacing);
-    line-height: var(--TITLE-BODY-line-height);
-    font-size: var(--TITLE-BODY-font-size);
-}
-
-.roche-project .text-wrapper-8 {
-    font-family: var(--PARAGR-font-family);
-    color: #000000;
-    font-size: var(--PARAGR-font-size);
-    font-style: var(--PARAGR-font-style);
-    font-weight: var(--PARAGR-font-weight);
-    letter-spacing: var(--PARAGR-letter-spacing);
-    line-height: var(--PARAGR-line-height);
-}
-
 .roche-project .vector {
     position: relative;
     width: 1138.5px;
     height: 21.21px;
 }
 
-.roche-project .let-me-explain-a-bit-wrapper {
+.roche-project .frame-16 {
     position: relative;
     width: 1208px;
     height: 176px;
 }
 
-.roche-project .let-me-explain-a-bit {
-    position: absolute;
+.roche-project .flexcontainer-2 {
+    position: relative;
     width: 1066px;
+    height: 145px;
     top: -1px;
     left: 71px;
-    font-family: "Work Sans-Medium", Helvetica;
-    font-weight: 400;
-    color: transparent;
-    font-size: 25px;
-    letter-spacing: 0;
-    line-height: 33.8px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
 }
 
-.roche-project .text-wrapper-9 {
-    font-weight: 500;
-    color: #000000;
-}
-
-.roche-project .text-wrapper-10 {
-    font-family: "Work Sans-Regular", Helvetica;
-    color: #000000;
-    font-size: 16px;
-    line-height: 21.6px;
-}
-
-.roche-project .frame-16 {
+.roche-project .frame-17 {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -934,7 +880,7 @@
     flex: 0 0 auto;
 }
 
-.roche-project .frame-17 {
+.roche-project .frame-18 {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -948,7 +894,7 @@
     height: 194px;
 }
 
-.roche-project .frame-18 {
+.roche-project .frame-19 {
     width: 574px;
     height: 194px;
     padding: 0px 100px;
@@ -1002,44 +948,44 @@
     border: 2px solid;
 }
 
-.roche-project .frame-19 {
+.roche-project .frame-20 {
+    display: inline-flex;
     flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
     padding: 15px;
+    position: relative;
+    flex: 0 0 auto;
     margin-left: -78px;
     margin-right: -78px;
     background-color: #d9e4ff;
     border-radius: 20px;
-    display: inline-flex;
-    align-items: flex-start;
-    gap: 5px;
-    position: relative;
-    flex: 0 0 auto;
 }
 
-.roche-project .text-wrapper-11 {
+.roche-project .text-wrapper-6 {
     position: relative;
     width: 392px;
     margin-top: -1px;
-    font-family: "Work Sans-SemiBold", Helvetica;
-    font-weight: 600;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #c44601;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 21.6px;
+    line-height: normal;
 }
 
-.roche-project .text-wrapper-12 {
+.roche-project .p {
     position: relative;
     width: 500px;
-    font-family: "Work Sans-Light", Helvetica;
-    font-weight: 300;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #000000;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 21.6px;
+    line-height: normal;
 }
 
-.roche-project .frame-20 {
+.roche-project .frame-21 {
     display: inline-flex;
     align-items: flex-start;
     position: relative;
@@ -1056,10 +1002,10 @@
 .roche-project .group-6 {
     position: relative;
     width: 574px;
-    height: 238px;
+    height: 223px;
 }
 
-.roche-project .frame-21 {
+.roche-project .frame-22 {
     display: flex;
     flex-direction: column;
     width: 574px;
@@ -1077,7 +1023,9 @@
     object-fit: cover;
 }
 
-.roche-project .frame-22 {
+.roche-project .frame-23 {
+    margin-left: -178px;
+    margin-right: -178px;
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -1085,22 +1033,20 @@
     padding: 15px;
     position: relative;
     flex: 0 0 auto;
-    margin-left: -178px;
-    margin-right: -178px;
     background-color: #d9e4ff;
     border-radius: 20px;
 }
 
-.roche-project .text-wrapper-13 {
+.roche-project .text-wrapper-7 {
     position: relative;
     width: 384px;
     margin-top: -1px;
-    font-family: "Work Sans-SemiBold", Helvetica;
-    font-weight: 600;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #c44601;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 21.6px;
+    line-height: normal;
 }
 
 .roche-project .vector-2 {
@@ -1122,10 +1068,10 @@
 .roche-project .group-7 {
     position: relative;
     width: 1208px;
-    height: 281.99px;
+    height: 260.99px;
 }
 
-.roche-project .frame-23 {
+.roche-project .frame-24 {
     width: 1208px;
     padding: 0px 200px;
     display: flex;
@@ -1136,7 +1082,7 @@
     position: relative;
 }
 
-.roche-project .frame-24 {
+.roche-project .frame-25 {
     display: flex;
     flex-direction: column;
     width: 574px;
@@ -1302,7 +1248,7 @@
     left: 7px;
 }
 
-.roche-project .frame-25 {
+.roche-project .frame-26 {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -1314,16 +1260,16 @@
     border-radius: 20px;
 }
 
-.roche-project .text-wrapper-14 {
+.roche-project .text-wrapper-8 {
     position: relative;
     width: 421px;
     margin-top: -1px;
-    font-family: "Work Sans-SemiBold", Helvetica;
-    font-weight: 600;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #c44601;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 21.6px;
+    line-height: normal;
 }
 
 .roche-project .vector-4 {
@@ -1350,7 +1296,7 @@
     left: 651px;
 }
 
-.roche-project .frame-26 {
+.roche-project .frame-27 {
     display: inline-flex;
     align-items: flex-start;
     position: relative;
@@ -1358,12 +1304,12 @@
 }
 
 .roche-project .group-15 {
-    width: 604px;
     position: relative;
-    height: 304px;
+    width: 604px;
+    height: 261px;
 }
 
-.roche-project .frame-27 {
+.roche-project .frame-28 {
     display: flex;
     flex-direction: column;
     width: 604px;
@@ -1471,7 +1417,7 @@
     left: 12px;
 }
 
-.roche-project .frame-28 {
+.roche-project .frame-29 {
     display: inline-flex;
     flex-direction: column;
     align-items: flex-start;
@@ -1586,7 +1532,7 @@
     position: absolute;
     width: 1px;
     height: 1px;
-    top: 243px;
+    top: 322px;
     left: 492px;
 }
 
@@ -1672,9 +1618,9 @@
 }
 
 .roche-project .group-25 {
-    width: 1208px;
     position: relative;
-    height: 304px;
+    width: 1208px;
+    height: 280px;
 }
 
 .roche-project .overlap-2 {
@@ -1829,7 +1775,7 @@
     position: absolute;
     width: 1px;
     height: 1px;
-    top: -93px;
+    top: 29px;
     left: 792px;
 }
 
@@ -1847,7 +1793,7 @@
     height: 280px;
 }
 
-.roche-project .frame-29 {
+.roche-project .frame-30 {
     width: 574px;
     height: 280px;
     padding: 0px 100px;
@@ -1863,7 +1809,6 @@
     position: relative;
     width: 78px;
     height: 73px;
-    margin-top: -8.5px;
     border-radius: 5px;
     border: 2px solid;
     border-color: #c44601;
@@ -2087,21 +2032,6 @@
     left: 42px;
 }
 
-.roche-project .frame-30 {
-    display: inline-flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 5px;
-    padding: 15px;
-    position: relative;
-    flex: 0 0 auto;
-    margin-bottom: -8.5px;
-    margin-left: -78px;
-    margin-right: -78px;
-    background-color: #d9e4ff;
-    border-radius: 20px;
-}
-
 .roche-project .frame-31 {
     display: inline-flex;
     align-items: flex-start;
@@ -2113,7 +2043,7 @@
 .roche-project .group-35 {
     position: relative;
     width: 574px;
-    height: 348px;
+    height: 318px;
 }
 
 .roche-project .overlap-group-6 {
@@ -2471,16 +2401,16 @@
 }
 
 .roche-project .text-2 {
+    position: relative;
     width: 1px;
     height: 15px;
     font-family: var(--caption-font-family);
+    font-weight: var(--caption-font-weight);
     color: #000000;
     font-size: var(--caption-font-size);
+    letter-spacing: var(--caption-letter-spacing);
     line-height: var(--caption-line-height);
     white-space: nowrap;
-    position: relative;
-    font-weight: var(--caption-font-weight);
-    letter-spacing: var(--caption-letter-spacing);
     font-style: var(--caption-font-style);
 }
 
@@ -2505,23 +2435,23 @@
 
 .roche-project .group-38 {
     position: absolute;
-    width: 175px;
-    height: 29px;
+    width: 173px;
+    height: 27px;
     top: 6px;
     left: 0;
 }
 
 .roche-project .heavy-6 {
     position: absolute;
-    height: 24px;
-    top: 5px;
+    height: 19px;
+    top: 8px;
     left: 34px;
-    font-family: "Roboto-SemiBold", Helvetica;
-    font-weight: 600;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #ffffff;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: normal;
     white-space: nowrap;
 }
 
@@ -2566,11 +2496,11 @@
     position: relative;
     width: fit-content;
     margin-top: -1px;
-    font-family: "Roboto-SemiBold", Helvetica;
-    font-weight: 600;
+    font-family: "Roboto-Regular", Helvetica;
+    font-weight: 400;
     color: #f4f6f9;
     font-size: 16px;
     letter-spacing: 0;
-    line-height: 24px;
+    line-height: normal;
     white-space: nowrap;
 }
