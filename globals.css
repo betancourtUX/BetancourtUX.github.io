@@ -1,5 +1,5 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700,600|Source+Sans+Pro:var(--action-button-small-font-weight),var(--action-button-medium-font-weight),var(--paragraph-base-heavy-font-weight)");
+@import url("https://fonts.googleapis.com/css?family=Roboto+Condensed:var(--title-36-font-weight)|Roboto:var(--paragraph-23-font-weight),600,var(--menu-font-weight),var(--title-72-font-weight),var(--title-23-font-weight),var(--tag-16-font-weight)|Source+Sans+Pro:var(--action-button-small-font-weight),var(--action-button-medium-font-weight),var(--paragraph-base-heavy-font-weight)");
 * {
   -webkit-font-smoothing: antialiased;
   box-sizing: border-box;
