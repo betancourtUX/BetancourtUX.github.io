@@ -1588,7 +1588,6 @@ ul.c{
   left: 23px;
   background-color: #c44601;
   border-radius: 20px;
-  border: 2px solid;
   transform: rotate(-42.95deg);
 }
 
@@ -1740,8 +1739,8 @@ ul.c{
 .project .rectangle-25 {
   width: 37px;
   height: 5px;
-  top: 12px;
-  left: 5px;
+  top: 18px;
+  left: 2px;
   transform: rotate(45deg);
   position: absolute;
   background-color: #c44601;
@@ -2044,7 +2043,7 @@ ul.c{
 }
 
 .project .rectangle-29 {
-  width: 78px;
+  width: 77px;
   height: 2px;
   top: 7px;
   left: 0;
@@ -2183,7 +2182,7 @@ ul.c{
 }
 
 .project .rectangle-32 {
-  width: 78px;
+  width: 77px;
   height: 2px;
   top: 12px;
   left: 0;
@@ -2204,8 +2203,8 @@ ul.c{
   position: absolute;
   width: 80px;
   height: 2px;
-  top: 39px;
-  left: -8px;
+  top: 37px;
+  left: -11px;
   background-color: #c44601;
   border-radius: 1px;
   transform: rotate(101.66deg);
@@ -2226,7 +2225,7 @@ ul.c{
   width: 27px;
   height: 38px;
   top: 28px;
-  left: 42px;
+  left: 37px;
 }
 
 .project .group-32 {
